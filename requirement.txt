@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+psutil
+requests
+google-auth
+google-auth-httplib2
+gspread
